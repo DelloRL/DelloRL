@@ -1,4 +1,4 @@
-![BardBand](bardband_wide.gif)
+![BardBand](BardBand.gif)
 
 - 👋 Hola, soy Lucas Dello Russo, también conocido como DelloRL
 - 👀 Estoy interesado en los juegos de rol, videojuegos y fantasía en general!
