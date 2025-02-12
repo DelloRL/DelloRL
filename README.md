@@ -1,4 +1,4 @@
-![band](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![bardband]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif])
 
 - 👋 Hola, soy Lucas Dello Russo, también conocido como DelloRL
 - 👀 Estoy interesado en los juegos de rol, videojuegos y fantasía en general!
