@@ -1,5 +1,7 @@
-## Hi there 👋
-
+- 👋 Hola, soy Lucas Dello Russo, también conocido como DelloRL
+- 👀 Estoy interesado en los juegos de rol, videojuegos y fantasía.
+- 🌱 Actualmente estoy trabajando como Desarrollador en CDT - Soluciones Tecnológicas y aprendiendo en mi tiempo libre.
+  
 <!--
 **DelloRL/DelloRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
