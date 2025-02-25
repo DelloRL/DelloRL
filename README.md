@@ -1,6 +1,6 @@
 ![BardBand](BardBand.gif)
 
-- 👋 Hola, soy Lucas Dello Russo, también conocido como DelloRL
+- 👋 Hola, soy Lucas Dello Russo!
 - 👀 Estoy interesado en los juegos de rol, videojuegos y fantasía en general!
 - 🌱 Actualmente estoy trabajando como Desarrollador en CDT - Soluciones Tecnológicas y aprendiendo en mi tiempo libre.
   
